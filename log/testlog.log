@@ -1,0 +1,78 @@
+2021-06-04 14:38:31,012 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 14:40:39,853 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 15:10:29,339 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 15:10:29,386 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 15:34:48,864 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 15:34:48,915 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 17:59:54,929 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 17:59:55,020 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 17:59:59,044 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 17:59:59,107 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 18:01:16,037 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 18:01:16,088 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 18:02:16,927 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 18:02:16,978 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 18:02:24,210 - DifferentValidations -INFO - Check box is checked
+2021-06-04 18:27:21,299 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 18:27:21,333 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 18:27:27,774 - DifferentValidations -INFO - Check box is checked
+2021-06-04 18:30:17,963 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 18:30:18,001 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 18:30:24,263 - DifferentValidations -INFO - Check box is checked
+2021-06-04 18:36:23,297 - DifferentValidations -INFO - Text is Displayed
+2021-06-04 18:36:23,344 - DifferentValidations -INFO - Button is not enabled
+2021-06-04 18:36:30,361 - DifferentValidations -INFO - Check box is checked
+2021-06-04 18:36:50,615 - DifferentValidations -INFO - Radio button is not checked
+2021-06-05 17:56:48,992 - DifferentValidations -INFO - Text is Displayed
+2021-06-05 17:56:49,115 - DifferentValidations -INFO - Button is not enabled
+2021-06-05 17:56:55,335 - DifferentValidations -INFO - Check box is checked
+2021-06-05 17:57:08,320 - DifferentValidations -INFO - Radio button is not checked
+2021-06-05 17:57:27,043 - DifferentValidations -INFO - Text box is displayd
+2021-06-05 18:14:38,354 - DifferentValidations -INFO - Text is Displayed
+2021-06-05 18:14:38,401 - DifferentValidations -INFO - Button is not enabled
+2021-06-05 18:14:46,132 - DifferentValidations -INFO - Check box is checked
+2021-06-05 18:14:57,599 - DifferentValidations -INFO - Radio button is not checked
+2021-06-05 18:15:10,540 - DifferentValidations -INFO - Text box is displayd
+2021-06-05 18:15:11,869 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-05 21:08:25,462 - DifferentValidations -INFO - child age drop down section is diplayed
+2021-06-05 21:51:24,520 - DifferentValidations -INFO - Text is Displayed
+2021-06-05 21:51:24,567 - DifferentValidations -INFO - Button is not enabled
+2021-06-05 21:51:29,749 - DifferentValidations -INFO - Check box is checked
+2021-06-05 21:51:40,409 - DifferentValidations -INFO - Radio button is not checked
+2021-06-05 21:51:55,449 - DifferentValidations -INFO - Text box is displayd
+2021-06-05 21:51:56,557 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-05 21:52:56,910 - DifferentValidations -INFO - Text is Displayed
+2021-06-05 21:52:56,949 - DifferentValidations -INFO - Button is not enabled
+2021-06-05 21:53:01,730 - DifferentValidations -INFO - Check box is checked
+2021-06-05 21:53:12,178 - DifferentValidations -INFO - Radio button is not checked
+2021-06-05 21:53:24,056 - DifferentValidations -INFO - Text box is displayd
+2021-06-05 21:53:25,167 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-05 21:53:48,907 - DifferentValidations -INFO - child age drop down section is diplayed
+2021-06-05 21:55:18,049 - DifferentValidations -INFO - Text is Displayed
+2021-06-05 21:55:18,104 - DifferentValidations -INFO - Button is not enabled
+2021-06-05 21:55:23,745 - DifferentValidations -INFO - Check box is checked
+2021-06-05 21:55:36,742 - DifferentValidations -INFO - Radio button is not checked
+2021-06-05 21:55:48,332 - DifferentValidations -INFO - Text box is displayd
+2021-06-05 21:55:49,443 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-05 21:56:14,936 - DifferentValidations -INFO - child age drop down section is diplayed
+2021-06-06 22:08:22,366 - DifferentValidations -INFO - Text is Displayed
+2021-06-06 22:08:22,472 - DifferentValidations -INFO - Button is not enabled
+2021-06-06 22:08:28,965 - DifferentValidations -INFO - Check box is checked
+2021-06-06 22:08:39,465 - DifferentValidations -INFO - Radio button is not checked
+2021-06-06 22:08:54,204 - DifferentValidations -INFO - Text box is displayd
+2021-06-06 22:08:55,327 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-06 22:09:34,737 - DifferentValidations -INFO - child age drop down section is diplayed
+2021-06-06 22:13:24,725 - DifferentValidations -INFO - Text is Displayed
+2021-06-06 22:13:24,782 - DifferentValidations -INFO - Button is not enabled
+2021-06-06 22:13:32,335 - DifferentValidations -INFO - Check box is checked
+2021-06-06 22:13:42,603 - DifferentValidations -INFO - Radio button is not checked
+2021-06-06 22:13:56,195 - DifferentValidations -INFO - Text box is displayd
+2021-06-06 22:13:57,313 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-06 22:14:27,388 - DifferentValidations -INFO - child age drop down section is diplayed
+2021-06-06 22:17:30,985 - DifferentValidations -INFO - Text is Displayed
+2021-06-06 22:17:31,037 - DifferentValidations -INFO - Button is not enabled
+2021-06-06 22:17:36,268 - DifferentValidations -INFO - Check box is checked
+2021-06-06 22:17:44,804 - DifferentValidations -INFO - Radio button is not checked
+2021-06-06 22:17:56,646 - DifferentValidations -INFO - Text box is displayd
+2021-06-06 22:17:57,758 - DifferentValidations -INFO - Text box is not visible on screen but present in DOM
+2021-06-06 22:18:27,251 - DifferentValidations -INFO - child age drop down section is diplayed

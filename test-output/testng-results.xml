@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-06T22:17:20 PKT" name="DifferentValidations" finished-at="2021-06-06T22:18:30 PKT" duration-ms="70127">
+    <groups>
+    </groups>
+    <test started-at="2021-06-06T22:17:20 PKT" name="DifferentValidations Test" finished-at="2021-06-06T22:18:30 PKT" duration-ms="70127">
+      <class name="com.differentvalidations.testcases.TC_02">
+        <test-method signature="TC2()[pri:0, instance:com.differentvalidations.testcases.TC_02@72f926e6]" started-at="2021-06-06T22:18:00 PKT" name="TC2" finished-at="2021-06-06T22:18:27 PKT" duration-ms="26692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.differentvalidations.testcases.TC_02@72f926e6]" started-at="2021-06-06T22:18:27 PKT" name="quitBrowser" finished-at="2021-06-06T22:18:30 PKT" duration-ms="2872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.differentvalidations.testcases.TC_02 -->
+      <class name="com.differentvalidations.testcases.TC_01">
+        <test-method signature="TC1()[pri:0, instance:com.differentvalidations.testcases.TC_01@3c130745]" started-at="2021-06-06T22:17:20 PKT" name="TC1" finished-at="2021-06-06T22:17:57 PKT" duration-ms="37230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.differentvalidations.testcases.TC_01@3c130745]" started-at="2021-06-06T22:17:57 PKT" name="quitBrowser" finished-at="2021-06-06T22:18:00 PKT" duration-ms="2782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.differentvalidations.testcases.TC_01 -->
+    </test> <!-- DifferentValidations Test -->
+  </suite> <!-- DifferentValidations -->
+</testng-results>

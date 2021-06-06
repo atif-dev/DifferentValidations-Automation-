@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DifferentValidations">
+
+	<listeners>
+		<listener class-name="com.differentvalidations.utilities.Reporting" />
+	</listeners>
+
+  <test name="DifferentValidations Test">
+    <classes>
+      <class name="com.differentvalidations.testcases.TC_01"/>
+      <class name="com.differentvalidations.testcases.TC_02"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
